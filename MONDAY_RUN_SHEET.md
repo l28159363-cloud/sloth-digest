@@ -11,7 +11,7 @@
 - 注意：这一步只能周一做——仓库现在还不存在，上面那个地址打开是 404，属正常。
 
 ### 2. 把本地代码推上去（唯一需要你登录的一步）
-- 文件都在小林这边：`~/workspace/hackathon/dev-week3-sloth-digest/`，共 8 个文件（index.html、agent.py、README、LICENSE、sample_chat.json、DEV_POST.md，另加新准备的 MONDAY_RUN_SHEET.md 和 DEV_POST_TEMPLATE.md），本地 git 已提交 3 次。
+- 文件都在小林这边：`~/workspace/hackathon/dev-week3-sloth-digest/`，共 8 个文件（index.html、agent.py、README、LICENSE、sample_chat.json、DEV_POST.md，另加新准备的 MONDAY_RUN_SHEET.md 和 DEV_POST_TEMPLATE.md），本地 git 已提交。
 - 你上线后告诉小林一声，由小林带你完成推送——这一步需要你本人的 GitHub 登录，别人替不了。
 - 推完先打开仓库页确认 8 个文件都在，再往下走。
 
